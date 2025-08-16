@@ -11,6 +11,6 @@
 
 
 
-## Authors
+## Авторы
 
-- [Мой телеграм](t.me/@AlexFoster9)
+- - [@Alexfoster9](https://www.github.com/Alexfoster9)
