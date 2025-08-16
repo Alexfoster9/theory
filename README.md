@@ -1,21 +1,16 @@
 
-# Project Title
+# Теория тестирования
 
-A brief description of what this project does and who it's for
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Мой проект по выполнению домашних заданий
 
 
-## Appendix
+## Решение домашних заданий 
 
-Any additional information goes here
+ - [Определяем методы, типы и уровни тестирования](https://docs.google.com/spreadsheets/d/1tpUId_oLIxLqr8RClWjS7oQFDxwiZTltgyly0J-iP00/edit?usp=sharing)
+
+
 
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [Мой телеграм](t.me/@AlexFoster9)
